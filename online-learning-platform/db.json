@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": "5caf",
+      "name": "Lonka Nagaraju",
+      "email": "nanilonka143@gmail.com",
+      "password": "1122",
+      "role": "student"
+    },
+    {
+      "id": "ffcf",
+      "name": "Suresh",
+      "email": "s@gmail.com",
+      "password": "11",
+      "role": "student"
+    },
+    {
+      "id": "ebd0",
+      "name": "nani",
+      "email": "nn@example.com",
+      "password": "234",
+      "role": "admin"
+    },
+    {
+      "id": "542f",
+      "name": "Lonka Nagaraju ",
+      "email": "kk@gmail.com",
+      "password": "2211",
+      "role": "student",
+      "cart": [],
+      "purchased": [
+        {
+          "id": "3a95",
+          "title": "Web Design for Beginners | FREE COURSE",
+          "description": "A beginner-friendly course on web design principles and practices.",
+          "videoUrl": "https://www.youtube.com/embed/B-ytMSuwbf8",
+          "amount": 10000
+        },
+        {
+          "id": "54c9",
+          "title": "Back-end Development Playlist",
+          "description": "A playlist covering Node.js, REST APIs, SQL, and more for backend development.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud",
+          "amount": 20000
+        },
+        {
+          "id": "f670",
+          "title": "Learn Data Science Tutorial - Full Course for Beginners",
+          "description": "A full course introducing data science concepts and pathways.",
+          "videoUrl": "https://www.youtube.com/embed/ua-CiDNNj30",
+          "amount": 10000
+        },
+        {
+          "id": "1af5",
+          "title": "Artificial Intelligence and Machine Learning Simplified",
+          "description": "A playlist simplifying AI and ML concepts for beginners.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLqXS1b2lRpYTpUIEu3oxfhhTuBXmMPppA",
+          "amount": 20000
+        },
+        {
+          "id": "2fa8",
+          "title": "Cyber Security Training for Beginners | Edureka",
+          "description": "A playlist introducing cyber security concepts and practices.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_",
+          "amount": 20000
+        },
+        {
+          "id": "2fa8",
+          "title": "Cyber Security Training for Beginners | Edureka",
+          "description": "A playlist introducing cyber security concepts and practices.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_",
+          "amount": 20000
+        },
+        {
+          "id": "1af5",
+          "title": "Artificial Intelligence and Machine Learning Simplified",
+          "description": "A playlist simplifying AI and ML concepts for beginners.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLqXS1b2lRpYTpUIEu3oxfhhTuBXmMPppA",
+          "amount": 20000
+        },
+        {
+          "id": "1af5",
+          "title": "Artificial Intelligence and Machine Learning Simplified",
+          "description": "A playlist simplifying AI and ML concepts for beginners.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLqXS1b2lRpYTpUIEu3oxfhhTuBXmMPppA",
+          "amount": 20000
+        },
+        {
+          "id": "1117",
+          "title": "Digital Marketing Tutorial For Beginners | Simplilearn",
+          "description": "An introductory tutorial on digital marketing fundamentals.",
+          "videoUrl": "https://www.youtube.com/embed/BZLUEKnMfIY",
+          "amount": 15000
+        },
+        {
+          "id": "54c9",
+          "title": "Back-end Development Playlist",
+          "description": "A playlist covering Node.js, REST APIs, SQL, and more for backend development.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud",
+          "amount": 20000
+        },
+        {
+          "id": "f670",
+          "title": "Learn Data Science Tutorial - Full Course for Beginners",
+          "description": "A full course introducing data science concepts and pathways.",
+          "videoUrl": "https://www.youtube.com/embed/ua-CiDNNj30",
+          "amount": 10000,
+          "reviews": [
+            {
+              "userId": "542f",
+              "rating": 0,
+              "comment": "good",
+              "date": "2025-04-16"
+            }
+          ]
+        },
+        {
+          "id": "2fa8",
+          "title": "Cyber Security Training for Beginners | Edureka",
+          "description": "A playlist introducing cyber security concepts and practices.",
+          "videoUrl": "https://www.youtube.com/embed/videoseries?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_",
+          "amount": 20000
+        },
+        {
+          "id": "2862",
+          "title": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)",
+          "description": "A comprehensive course covering frontend development technologies and project creation.",
+          "videoUrl": "https://www.youtube.com/embed/zJSY8tbf_ys",
+          "amount": 10000
+        },
+        {
+          "id": "2862",
+          "title": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)",
+          "description": "A comprehensive course covering frontend development technologies and project creation.",
+          "videoUrl": "https://www.youtube.com/embed/zJSY8tbf_ys",
+          "amount": 10000
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": "2862",
+      "title": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)",
+      "description": "A comprehensive course covering frontend development technologies and project creation.",
+      "videoUrl": "https://www.youtube.com/embed/zJSY8tbf_ys",
+      "amount": 10000
+    },
+    {
+      "id": "54c9",
+      "title": "Back-end Development Playlist",
+      "description": "A playlist covering Node.js, REST APIs, SQL, and more for backend development.",
+      "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud",
+      "amount": 20000
+    },
+    {
+      "id": "0dec",
+      "title": "Learn Full Stack Web Development From Scratch",
+      "description": "A 22-hour video covering all major topics of web development for beginners.",
+      "videoUrl": "https://www.youtube.com/embed/ZxKM3DCV2kE",
+      "amount": 30000
+    },
+    {
+      "id": "9297",
+      "title": "Full Stack Java Developer Course Playlist",
+      "description": "A playlist covering sessions on Full Stack Java Development.",
+      "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLU2wpJsXyAjnmTQPc4KM7kP1dq2lnkQ5O",
+      "amount": 40000
+    },
+    {
+      "id": "f670",
+      "title": "Learn Data Science Tutorial - Full Course for Beginners",
+      "description": "A full course introducing data science concepts and pathways.",
+      "videoUrl": "https://www.youtube.com/embed/ua-CiDNNj30",
+      "amount": 10000,
+      "reviews": [
+        {
+          "userId": "542f",
+          "rating": 0,
+          "comment": "good",
+          "date": "2025-04-16"
+        }
+      ]
+    },
+    {
+      "id": "1117",
+      "title": "Digital Marketing Tutorial For Beginners | Simplilearn",
+      "description": "An introductory tutorial on digital marketing fundamentals.",
+      "videoUrl": "https://www.youtube.com/embed/BZLUEKnMfIY",
+      "amount": 15000
+    },
+    {
+      "id": "3a95",
+      "title": "Web Design for Beginners | FREE COURSE",
+      "description": "A beginner-friendly course on web design principles and practices.",
+      "videoUrl": "https://www.youtube.com/embed/B-ytMSuwbf8",
+      "amount": 10000
+    },
+    {
+      "id": "bad6",
+      "title": "UI/UX Design Playlist",
+      "description": "A playlist covering various aspects of UI/UX design.",
+      "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLjiHFwhbHYlHSpAflJwjsKAyMaMhASm0F",
+      "amount": 10000
+    },
+    {
+      "id": "1af5",
+      "title": "Artificial Intelligence and Machine Learning Simplified",
+      "description": "A playlist simplifying AI and ML concepts for beginners.",
+      "videoUrl": "https://www.youtube.com/embed/videoseries?list=PLqXS1b2lRpYTpUIEu3oxfhhTuBXmMPppA",
+      "amount": 20000
+    },
+    {
+      "id": "36ed",
+      "title": "Data Analyst Bootcamp for Beginners",
+      "description": "A comprehensive bootcamp covering SQL, Tableau, Power BI, and more.",
+      "videoUrl": "https://www.youtube.com/embed/PSNXoAs2FtQ",
+      "amount": 15000
+    },
+    {
+      "id": "2fa8",
+      "title": "Cyber Security Training for Beginners | Edureka",
+      "description": "A playlist introducing cyber security concepts and practices.",
+      "videoUrl": "https://www.youtube.com/embed/videoseries?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_",
+      "amount": 20000
+    }
+  ]
+}
